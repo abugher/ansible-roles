@@ -1,0 +1,291 @@
+[submodule "ansible-master"]
+	path = ansible-master
+	url = git@github.com:abugher/ansible-role-ansible-master.git
+[submodule "ansible-target"]
+	path = ansible-target
+	url = git@github.com:abugher/ansible-role-ansible-target.git
+[submodule "apt-repo-client"]
+	path = apt-repo-client
+	url = git@github.com:abugher/ansible-role-apt-repo-client.git
+[submodule "apt-repo-server"]
+	path = apt-repo-server
+	url = git@github.com:abugher/ansible-role-apt-repo-server.git
+[submodule "archive-server"]
+	path = archive-server
+	url = git@github.com:abugher/ansible-role-archive-server.git
+[submodule "armbian"]
+	path = armbian
+	url = git@github.com:abugher/ansible-role-armbian.git
+[submodule "automatic-updates"]
+	path = automatic-updates
+	url = git@github.com:abugher/ansible-role-automatic-updates.git
+[submodule "backup-client"]
+	path = backup-client
+	url = git@github.com:abugher/ansible-role-backup-client.git
+[submodule "backup-proxy"]
+	path = backup-proxy
+	url = git@github.com:abugher/ansible-role-backup-proxy.git
+[submodule "backup-server"]
+	path = backup-server
+	url = git@github.com:abugher/ansible-role-backup-server.git
+[submodule "bananian"]
+	path = bananian
+	url = git@github.com:abugher/ansible_role_bananian.git
+[submodule "camera"]
+	path = camera
+	url = git@github.com:abugher/ansible_role_camera.git
+[submodule "crl-server"]
+	path = crl-server
+	url = git@github.com:abugher/ansible-role-crl-server.git
+[submodule "cryptkeeper"]
+	path = cryptkeeper
+	url = git@github.com:abugher/ansible_role_cryptkeeper.git
+[submodule "dark"]
+	path = dark
+	url = git@github.com:abugher/ansible_role_dark.git
+[submodule "debian"]
+	path = debian
+	url = git@github.com:abugher/ansible-role-debian.git
+[submodule "debian-live-build"]
+	path = debian-live-build
+	url = git@github.com:abugher/ansible_role_debian-live-build.git
+[submodule "debian-netboot"]
+	path = debian-netboot
+	url = git@github.com:abugher/ansible_role_debian-netboot.git
+[submodule "devuan"]
+	path = devuan
+	url = git@github.com:abugher/ansible-role-devuan.git
+[submodule "dhcp-server"]
+	path = dhcp-server
+	url = git@github.com:abugher/ansible_role_dhcp-server.git
+[submodule "discord-client"]
+	path = discord-client
+	url = git@github.com:abugher/ansible-role-discord-client.git
+[submodule "discord-repo"]
+	path = discord-repo
+	url = git@github.com:abugher/ansible-role-discord-repo.git
+[submodule "display"]
+	path = display
+	url = git@github.com:abugher/ansible_role_display.git
+[submodule "dns-client"]
+	path = dns-client
+	url = git@github.com:abugher/ansible-role-dns-client.git
+[submodule "dns-external"]
+	path = dns-external
+	url = git@github.com:abugher/ansible-role-dns-external.git
+[submodule "dns-internal"]
+	path = dns-internal
+	url = git@github.com:abugher/ansible-role-dns-internal.git
+[submodule "dontstarvetogether"]
+	path = dontstarvetogether
+	url = git@github.com:abugher/ansible-role-dontstarvetogether.git
+[submodule "encrypted-storage"]
+	path = encrypted-storage
+	url = git@github.com:abugher/ansible-role-encrypted-storage.git
+[submodule "escrow"]
+	path = escrow
+	url = git@github.com:abugher/ansible_role_escrow.git
+[submodule "file-server"]
+	path = file-server
+	url = git@github.com:abugher/ansible-role-file-server.git
+[submodule "flexget"]
+	path = flexget
+	url = git@github.com:abugher/ansible_role_flexget.git
+[submodule "front-page"]
+	path = front-page
+	url = git@github.com:abugher/ansible-role-front-page.git
+[submodule "grafana"]
+	path = grafana
+	url = git@github.com:abugher/ansible-role-grafana.git
+[submodule "hostname"]
+	path = hostname
+	url = git@github.com:abugher/ansible_role_hostname.git
+[submodule "https-private"]
+	path = https-private
+	url = git@github.com:abugher/ansible_role_https-private.git
+[submodule "jetson-nano"]
+	path = jetson-nano
+	url = git@github.com:abugher/ansible-role-jetson-nano.git
+[submodule "kanboard"]
+	path = kanboard
+	url = git@github.com:abugher/ansible_role_kanboard.git
+[submodule "kanboard-proxy"]
+	path = kanboard-proxy
+	url = git@github.com:abugher/ansible-role-kanboard-proxy.git
+[submodule "kibana"]
+	path = kibana
+	url = git@github.com:abugher/ansible_role_kibana.git
+[submodule "kibana-repo"]
+	path = kibana-repo
+	url = git@github.com:abugher/ansible-role-kibana-repo.git
+[submodule "krb5"]
+	path = krb5
+	url = git@github.com:abugher/ansible_role_krb5.git
+[submodule "letsencrypt-client"]
+	path = letsencrypt-client
+	url = git@github.com:abugher/ansible-role-letsencrypt-client.git
+[submodule "logstash"]
+	path = logstash
+	url = git@github.com:abugher/ansible_role_logstash.git
+[submodule "logstash-repo"]
+	path = logstash-repo
+	url = git@github.com:abugher/ansible-role-logstash-repo.git
+[submodule "mail-client"]
+	path = mail-client
+	url = git@github.com:abugher/ansible-role-mail-client.git
+[submodule "mailing-list-server"]
+	path = mailing-list-server
+	url = git@github.com:abugher/ansible-role-mailing-list-server.git
+[submodule "mail-server"]
+	path = mail-server
+	url = git@github.com:abugher/ansible-role-mail-server.git
+[submodule "mariadb-server"]
+	path = mariadb-server
+	url = git@github.com:abugher/ansible-role-mariadb-server.git
+[submodule "minecraft-bedrock-client"]
+	path = minecraft-bedrock-client
+	url = git@github.com:abugher/ansible-role-minecraft-bedrock-client.git
+[submodule "minecraft-server"]
+	path = minecraft-server
+	url = git@github.com:abugher/ansible-role-minecraft-server.git
+[submodule "monitored"]
+	path = monitored
+	url = git@github.com:abugher/ansible_role_monitored.git
+[submodule "mplayerd"]
+	path = mplayerd
+	url = git@github.com:abugher/ansible_role_mplayerd.git
+[submodule "nagios"]
+	path = nagios
+	url = git@github.com:abugher/ansible_role_nagios.git
+[submodule "nagios-proxy"]
+	path = nagios-proxy
+	url = git@github.com:abugher/ansible-role-nagios-proxy.git
+[submodule "nethack"]
+	path = nethack
+	url = git@github.com:abugher/ansible_role_nethack.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:abugher/ansible_role_nginx.git
+[submodule "no-laptop"]
+	path = no-laptop
+	url = git@github.com:abugher/ansible-role-no-laptop.git
+[submodule "no-systemd"]
+	path = no-systemd
+	url = git@github.com:abugher/ansible-role-no-systemd.git
+[submodule "pass-server"]
+	path = pass-server
+	url = git@github.com:abugher/ansible-role-pass-server.git
+[submodule "pianobard"]
+	path = pianobard
+	url = git@github.com:abugher/ansible_role_pianobard.git
+[submodule "printer-postscript-proxy"]
+	path = printer-postscript-proxy
+	url = git@github.com:abugher/ansible-role-printer-postscript-proxy.git
+[submodule "python"]
+	path = python
+	url = git@github.com:abugher/ansible_role_python.git
+[submodule "rachel-phone"]
+	path = rachel-phone
+	url = git@github.com:abugher/ansible_role_rachel-phone.git
+[submodule "raspios"]
+	path = raspios
+	url = git@github.com:abugher/ansible-role-raspios.git
+[submodule "remote"]
+	path = remote
+	url = git@github.com:abugher/ansible_role_remote.git
+[submodule "remote-proxy"]
+	path = remote-proxy
+	url = git@github.com:abugher/ansible-role-remote-proxy.git
+[submodule "root-keys"]
+	path = root-keys
+	url = git@github.com:abugher/ansible-role-root-keys.git
+[submodule "sensitive-server"]
+	path = sensitive-server
+	url = git@github.com:abugher/ansible-role-sensitive-server.git
+[submodule "smokeping"]
+	path = smokeping
+	url = git@github.com:abugher/ansible_role_smokeping.git
+[submodule "smokeping-proxy"]
+	path = smokeping-proxy
+	url = git@github.com:abugher/ansible-role-smokeping-proxy.git
+[submodule "ssh-client"]
+	path = ssh-client
+	url = git@github.com:abugher/ansible-role-ssh-client.git
+[submodule "sshd"]
+	path = sshd
+	url = git@github.com:abugher/ansible_role_sshd.git
+[submodule "sshfs-client"]
+	path = sshfs-client
+	url = git@github.com:abugher/ansible-role-sshfs-client.git
+[submodule "ssl-client"]
+	path = ssl-client
+	url = git@github.com:abugher/ssl-client.git
+[submodule "ssl-identity"]
+	path = ssl-identity
+	url = git@github.com:abugher/ansible-role-ssl-identity.git
+[submodule "staging-vm-host"]
+	path = staging-vm-host
+	url = git@github.com:abugher/ansible-role-staging-vm-host.git
+[submodule "steamcmd"]
+	path = steamcmd
+	url = git@github.com:abugher/ansible-role-steamcmd.git
+[submodule "storage-server"]
+	path = storage-server
+	url = git@github.com:abugher/ansible-role-storage-server.git
+[submodule "streaming-receiver"]
+	path = streaming-receiver
+	url = git@github.com:abugher/ansible-role-streaming-receiver.git
+[submodule "syslog-client"]
+	path = syslog-client
+	url = git@github.com:abugher/ansible-role-syslog-client.git
+[submodule "syslog-server"]
+	path = syslog-server
+	url = git@github.com:abugher/ansible-role-syslog-server.git
+[submodule "systemd"]
+	path = systemd
+	url = git@github.com:abugher/ansible-role-systemd.git
+[submodule "tar-backup-client"]
+	path = tar-backup-client
+	url = git@github.com:abugher/ansible-role-tar-backup-client.git
+[submodule "temper"]
+	path = temper
+	url = git@github.com:abugher/ansible_role_temper.git
+[submodule "tftp"]
+	path = tftp
+	url = git@github.com:abugher/ansible_role_tftp.git
+[submodule "time"]
+	path = time
+	url = git@github.com:abugher/ansible_role_time.git
+[submodule "tor"]
+	path = tor
+	url = git@github.com:abugher/ansible_role_tor.git
+[submodule "transmission"]
+	path = transmission
+	url = git@github.com:abugher/ansible_role_transmission.git
+[submodule "transmission-proxy"]
+	path = transmission-proxy
+	url = git@github.com:abugher/ansible-role-transmission-proxy.git
+[submodule "user-friendly"]
+	path = user-friendly
+	url = git@github.com:abugher/ansible-role-user-friendly.git
+[submodule "user-identity-client"]
+	path = user-identity-client
+	url = git@github.com:abugher/ansible-role-user-identity-client.git
+[submodule "vpn-server"]
+	path = vpn-server
+	url = git@github.com:abugher/ansible-role-vpn-server.git
+[submodule "webmail"]
+	path = webmail
+	url = git@github.com:abugher/ansible-role-webmail.git
+[submodule "wesnoth-server"]
+	path = wesnoth-server
+	url = git@github.com:abugher/ansible-role-wesnoth-server.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:abugher/ansible_role_wiki.git
+[submodule "x2go"]
+	path = x2go
+	url = git@github.com:abugher/ansible_role_x2go.git
+[submodule "xmpp-server"]
+	path = xmpp-server
+	url = git@github.com:abugher/ansible-role-xmpp-server.git
