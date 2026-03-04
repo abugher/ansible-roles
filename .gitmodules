@@ -289,3 +289,6 @@
 [submodule "gitlab"]
 	path = gitlab
 	url = https://github.com/ansible-role-gitlab.git
+[submodule "debian-fasttrack"]
+	path = debian-fasttrack
+	url = https://github.com/abugher/ansible-role-debian-fasttrack.git
