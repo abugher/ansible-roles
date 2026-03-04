@@ -286,3 +286,6 @@
 [submodule "xmpp-server"]
 	path = xmpp-server
 	url = https://github.com/abugher/ansible-role-xmpp-server.git
+[submodule "gitlab"]
+	path = gitlab
+	url = https://github.com/ansible-role-gitlab.git
