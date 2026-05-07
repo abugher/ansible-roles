@@ -1,0 +1,11 @@
+---
+remove_modules:
+  - 'esp4'
+  - 'esp6'
+  - 'rxrpc'
+template_files:
+  - owner:              'root'
+    group:              'root'
+    mode:               '0644'
+    src:                'templates/dirtyfrag.conf.j2'
+    dest:               '/etc/modprobe.d/mitigation-dirtyfrag.conf'

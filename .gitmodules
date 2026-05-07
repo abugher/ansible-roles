@@ -292,3 +292,6 @@
 [submodule "debian-fasttrack"]
 	path = debian-fasttrack
 	url = https://github.com/abugher/ansible-role-debian-fasttrack.git
+[submodule "mitigation-dirtyfrag/tasks/common"]
+	path = mitigation-dirtyfrag/tasks/common
+	url = https://github.com/abugher/ansible-common-tasks.git
