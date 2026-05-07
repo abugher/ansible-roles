@@ -1,3 +1,0 @@
-[submodule "tasks/common"]
-	path = tasks/common
-	url = https://github.com/abugher/ansible-common-tasks.git

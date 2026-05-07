@@ -1,9 +1,0 @@
----
-- command:              /usr/sbin/modprobe "{{ module }}"
-  become_user:          'root'
-  register:             modprobe_result
-  failed_when:          0 == modprobe_result.rc
-  with_items:           "{{ remove_modules }}"
-  loop_control:
-    loop_var:                   'module'
-  changed_when:         False
